@@ -20,7 +20,7 @@ I'm a data scientist passionate about solving complex problems using data. I spe
 ### Portfolio
 - [Predictive Modeling for Customer Churn](#)
 - [Credit Risk Analysis](#)
-- [NLP Sentiment Analysis](#)
+- [Production Line Optimization Report (PDF)](/assets/project-report.pdf)
 
 ### Resume
 [Download my resume](#)
