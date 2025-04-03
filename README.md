@@ -1,4 +1,4 @@
-# portfoilio
+# portfolio
 
 #Education 
 BS, Industrial Engineering
