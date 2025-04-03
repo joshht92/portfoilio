@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Josh Thompson
 
 ## Data Scientist | Machine Learning Enthusiast | Problem Solver
