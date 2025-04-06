@@ -1,5 +1,13 @@
-title: Josh Thompson
-logo: /assets/img/headshot_circle.png
-#description: text below image
-show_downloads: true
-theme: jekyll-theme-minimal
+title: Joshua Thompson Portfolio
+description: Data Science & Optimization Projects | Resume | Contact
+theme: minima
+author: Joshua Thompson
+email: jthompson_01@outlook.com
+linkedin_username: joshua-thompson-b89913105
+github_username: joshht92
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown

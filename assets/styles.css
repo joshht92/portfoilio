@@ -1,0 +1,35 @@
+/* assets/styles.css */
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #fdfdfd;
+  color: #222;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  padding: 2rem;
+  border-bottom: 1px solid #eee;
+}
+
+h1, h2 {
+  color: #111;
+}
+
+.button {
+  padding: 0.75rem 1.25rem;
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  border-radius: 0.5rem;
+  font-weight: bold;
+  margin-right: 1rem;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.button:hover {
+  background-color: #005bb5;
+}
